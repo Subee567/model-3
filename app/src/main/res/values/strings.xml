@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Model 3</string>
+    <string name="Hide_password">hidepassword\n</string>
+    <string name="Show_password">showpassword\n</string>
+    <string name="sign_in_with_google">sign in with google</string>
+</resources>
